@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Pycharm files
+.idea
+
+#terraform
+terraform/.terraform
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+#Lambda Zips
+audio_converter_lambda.zip
